@@ -124,22 +124,23 @@ tutubags-ecommerce/
 │   └── checkout.js                         
 │   └── app.js              
 └── assets/
-    └── tas1.jpg
-    └── tas2.jpg
-    └── tas3.jpg
-    └── tas4.jpg
-    └── tas5.jpg
-    └── tas6.jpg
-    └── tas7.jpg
-    └── tas8.jpg
-    └── tas9.jpg
-    └── tas10.jpg
-    └── tas11.jpg
-    └── tas12.jpg
-    └── bagcharm1.jpg
-    └── bagcharm2.jpg
-    └── bagcharm3.jpg
-    └── bagcharm4.jpg
+    └── images/
+        └── tas1.jpg
+        └── tas2.jpg
+        └── tas3.jpg
+        └── tas4.jpg
+        └── tas5.jpg
+        └── tas6.jpg
+        └── tas7.jpg
+        └── tas8.jpg
+        └── tas9.jpg
+        └── tas10.jpg
+        └── tas11.jpg
+        └── tas12.jpg
+        └── bagcharm1.jpg
+        └── bagcharm2.jpg
+        └── bagcharm3.jpg
+        └── bagcharm4.jpg
 
 🛠️ Teknologi yang Digunakan
 HTML5: Struktur semantik untuk web.
